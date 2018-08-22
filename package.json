@@ -16,6 +16,7 @@
     "gridlex": "^2.7.1",
     "node-sass": "^4.9.2",
     "nuxt": "^1.0.0",
+    "nuxt-sass-resources-loader": "^2.0.4",
     "sass-loader": "^7.0.3"
   },
   "devDependencies": {
